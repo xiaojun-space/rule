@@ -1,1 +1,9 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# 域名  - DOMAIN,google.com
+# 域名后缀  - DOMAIN-SUFFIX,google.com
+# 域名关键字  - DOMAIN-KEYWORD,google
+# 域名正则表达式  - DOMAIN-REGEX,^google.*com
+
+# 中宏
 DOMAIN-SUFFIX,chinacloudapi.cn
