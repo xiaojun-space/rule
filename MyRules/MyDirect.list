@@ -7,3 +7,6 @@
 
 # 中宏
 DOMAIN-SUFFIX,chinacloudapi.cn
+
+# steam下载
+DOMAIN-SUFFIX,steamcontent.com
