@@ -27,3 +27,6 @@ DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
+
+#  过山车之星2创意工坊
+DOMAIN-SUFFIX,cloudfront.net
