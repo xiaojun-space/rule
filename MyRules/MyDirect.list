@@ -1,4 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+# 更新时间：2025.4.26
+# 规则数量：22条
 
 # 域名  - DOMAIN,google.com
 # 域名后缀  - DOMAIN-SUFFIX,google.com
