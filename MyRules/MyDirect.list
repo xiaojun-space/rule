@@ -35,3 +35,6 @@ DOMAIN-SUFFIX,cloudfront.net
 
 #  istore
 DOMAIN-SUFFIX,istoreos.com
+
+#  ubuntu
+DOMAIN-SUFFIX,ubuntu.com
