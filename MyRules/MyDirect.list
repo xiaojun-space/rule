@@ -26,6 +26,7 @@ DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
@@ -34,6 +35,9 @@ DOMAIN-SUFFIX,steamusercontent.com
 
 #  过山车之星2创意工坊
 DOMAIN-SUFFIX,cloudfront.net
+# DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,zaonce.net
+DOMAIN-SUFFIX,uszaa.com
 
 #  istore
 DOMAIN-SUFFIX,istoreos.com
