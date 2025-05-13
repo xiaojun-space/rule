@@ -1,6 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-# 更新时间：2025.5.10
-# 规则数量：28条
+# 更新时间：2025.5.13
+# 规则数量：36条
 
 # 域名  - DOMAIN,google.com
 # 域名后缀  - DOMAIN-SUFFIX,google.com
@@ -49,3 +49,11 @@ DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,infuse.im
 
+DOMAIN-SUFFIX,66a.net
+DOMAIN,jic.talkingdata.com
+DOMAIN-SUFFIX,jegotrip.com.cn
+DOMAIN-KEYWORD,simcity
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-KEYWORD,jpush
+DOMAIN-SUFFIX,qiyukf.com
+DOMAIN,wgo.mmstat.com
