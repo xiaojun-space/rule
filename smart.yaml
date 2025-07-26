@@ -52,7 +52,6 @@ proxy-groups:
   - {name: 📲 Telegram, type: select, proxies: [♻️ 香港智能, ♻️ 日本智能, ♻️ 狮城智能, ♻️ 美国智能, ♻️ 智能选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🌐 全部节点, 直连]}
   - {name: ✈️ Speedtest, type: select, proxies: [♻️ 香港智能, ♻️ 日本智能, ♻️ 狮城智能, ♻️ 美国智能, ♻️ 智能选择, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🌐 全部节点, 直连]}
   - {name: 🍎 Apple, type: select, proxies: [直连, 🚀 默认代理]}
-  - {name: 🎯 直连, type: select, proxies: [直连, 🚀 默认代理]}
   - {name: 🐟 漏网之鱼, type: select, proxies: [♻️ 智能选择, ♻️ 香港智能, ♻️ 日本智能, ♻️ 狮城智能, ♻️ 美国智能, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🌐 全部节点, 直连]}
   - {name: 🇭🇰 香港节点, type: select, include-all: true, filter: "(?i)港|hk|hongkong|hong kong"}
   - {name: 🇯🇵 日本节点, type: select, include-all: true, filter: "(?i)日|jp|japan"}
@@ -84,10 +83,10 @@ rules:
   - RULE-SET,telegram_domain,📲 Telegram
   - RULE-SET,gfw_domain,🚀 默认代理
   - RULE-SET,geolocation-!cn,🚀 默认代理
-  - RULE-SET,cn_domain,🎯 直连
+  - RULE-SET,cn_domain,直连
   - RULE-SET,google_ip,🍀 Google,no-resolve
   - RULE-SET,telegram_ip,📲 Telegram,no-resolve
-  - RULE-SET,cn_ip,🎯 直连
+  - RULE-SET,cn_ip,直连
   - MATCH,🐟 漏网之鱼
 
 # 规则集
