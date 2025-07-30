@@ -7,8 +7,10 @@
 # 域名关键字  - DOMAIN-KEYWORD,google
 # 域名正则表达式  - DOMAIN-REGEX,^google.*com
 
-# Apple push
+# Apple
 DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
 
 # 中宏
 DOMAIN-SUFFIX,chinacloudapi.cn
