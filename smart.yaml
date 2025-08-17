@@ -46,7 +46,7 @@ proxy-groups:
   - {name: 📹 YouTube, type: select, proxies: [🚀 节点选择, 🇺🇲 美国智能, 🇭🇰 香港智能, 🇯🇵 日本智能, 🇸🇬 狮城智能, ♻️ 全球智能, 🌐 其他地区, 🐸 手动切换]}
   - {name: 🍀 Google, type: select, proxies: [🚀 节点选择, 🇭🇰 香港智能, 🇯🇵 日本智能, 🇸🇬 狮城智能, 🇺🇲 美国智能, ♻️ 全球智能, 🌐 其他地区, 🐸 手动切换]}
   - {name: 🤖 AI, type: select, proxies: [🚀 节点选择, 🇭🇰 香港智能, 🇯🇵 日本智能, 🇸🇬 狮城智能, 🇺🇲 美国智能, ♻️ 全球智能, 🌐 其他地区, 🐸 手动切换]}
-  - {name: 💧 Copilot, type: select, proxies: [🚀 节点选择, 🇭🇰 香港智能, 🇯🇵 日本智能, 🇸🇬 狮城智能, 🇺🇲 美国智能, ♻️ 全球智能, 🌐 其他地区, 🐸 手动切换]}
+  - {name: 💧 Copilot, type: select, proxies: [直连, 🚀 节点选择, 🇭🇰 香港智能, 🇯🇵 日本智能, 🇸🇬 狮城智能, 🇺🇲 美国智能, ♻️ 全球智能, 🌐 其他地区, 🐸 手动切换]}
   - {name: 👨🏿‍💻 GitHub, type: select, proxies: [直连, 🚀 节点选择, 🇭🇰 香港智能, 🇯🇵 日本智能, 🇸🇬 狮城智能, 🇺🇲 美国智能, ♻️ 全球智能, 🌐 其他地区, 🐸 手动切换]}
   - {name: 🪟 Microsoft, type: select, proxies: [直连, 🚀 节点选择, 🇭🇰 香港智能, 🇯🇵 日本智能, 🇸🇬 狮城智能, 🇺🇲 美国智能, ♻️ 全球智能, 🌐 其他地区, 🐸 手动切换]}
   - {name: 📲 Telegram, type: select, proxies: [🚀 节点选择, 🇭🇰 香港智能, 🇯🇵 日本智能, 🇸🇬 狮城智能, 🇺🇲 美国智能, ♻️ 全球智能, 🌐 其他地区, 🐸 手动切换]}
